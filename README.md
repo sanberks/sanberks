@@ -2,6 +2,8 @@
 
 **AI/ML Engineer · ETH Zürich Research Intern · EPFL MSc**
 
+[LinkedIn](https://www.linkedin.com/in/sanberk-serbest/) · [Google Scholar](https://scholar.google.com/citations?user=XzyuMVkAAAAJ&hl=en)
+
 I work at the intersection of deep learning, reinforcement learning, and generative models.
 
 ---
@@ -56,10 +58,6 @@ Interactive visualization of optimization algorithms on 2D non-convex loss lands
 </tr>
 </table>
 
-
----
-
-[LinkedIn](https://www.linkedin.com/in/sanberk-serbest/) · [Google Scholar](https://scholar.google.com/citations?user=XzyuMVkAAAAJ&hl=en)
 
 ---
 
