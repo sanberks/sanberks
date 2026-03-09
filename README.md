@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Sanberk 👋
 
-<!--
-**sanberks/sanberks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer · ETH Zürich Research Intern · EPFL MSc**
 
-Here are some ideas to get you started:
+I work at the intersection of deep learning, reinforcement learning, and generative models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Currently
+
+- Research Intern @ **ETH Zürich** - Robotics
+
+---
+
+### 🧠 Interests
+
+```
+Deep Learning · Reinforcement Learning · Generative Models · Optimization · Agentic AI
+Computer Vision · Speech Enhancement · Robotics · Vision-Language-Action Models 
+```
+
+---
+
+
+### 🗂 Some Projects 
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[paper-to-podcast](https://github.com/sanberks/paper-to-podcast)**
+
+Turn any arXiv paper into a two-host podcast conversation. Fully local, no API keys, no cloud.
+
+`agentic` `LLM` `TTS`
+
+</td>
+<td width="33%" valign="top">
+
+**[curious-rl](https://github.com/sanberks/curious_rl)**
+
+Multi-algorithm RL benchmark on MuJoCo with an RND curiosity bonus implementation for improved sample efficiency.
+
+`reinforcement-learning` `exploration` 
+
+</td>
+<td width="33%" valign="top">
+
+**[optimizer-explorer](https://github.com/sanberks/optimizer_explorer)**
+
+Interactive visualization of optimization algorithms on 2D non-convex loss landscapes.
+
+`optimization` `visualization` `Frank-Wolfe`
+
+</td>
+</tr>
+</table>
+
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/sanberk-serbest/) · [Google Scholar](https://scholar.google.com/citations?user=XzyuMVkAAAAJ&hl=en)
+
+---
+
